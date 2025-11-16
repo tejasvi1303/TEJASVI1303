@@ -34,4 +34,4 @@ ML-based app that detects fake news using Logistic Regression and TF-IDF vectori
 ---
 
 ### 📬 Connect With Me
-- Email: tejasvisingh1303@gmail.com & 2205077@kiit.ac.in
+- Email: singhtejasvi451@gmail.com & 2205077@kiit.ac.in
